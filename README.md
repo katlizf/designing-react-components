@@ -6,6 +6,8 @@ The master branch here is the latest updates to the Pluralsight course published
 
 Original course source code can be found in the branch [Course-Release-May-2020](https://github.com/pkellner/pluralsight-designing-react-components-course-code/tree/Course-Release-May-2020)
 
+Link to pluralsight course [here](https://app.pluralsight.com/library/courses/react-components-designing/exercise-files).
+
 # Course Code for [Designing React Components](https://app.pluralsight.com/library/courses/react-components-designing) on Pluralsight
 
 <hr/>
