@@ -1,3 +1,5 @@
+// Created a nest tree of components from a single speaker component
+
 import { data } from "../SpeakerData";
 import Speaker from "../src/components/Speaker";
 

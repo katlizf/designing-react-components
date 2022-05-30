@@ -1,3 +1,7 @@
+// Changes:
+//      define state inside component,
+//      update state inside the event listener
+
 import { useState } from "react";
 
 function SpeakersToolbar() {

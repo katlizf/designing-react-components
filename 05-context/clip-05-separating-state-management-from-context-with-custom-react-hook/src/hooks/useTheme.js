@@ -1,3 +1,5 @@
+// Separating state management from the theme context with a custom react hook
+
 import { useState } from "react";
 
 function useTheme(startingTheme = "light") {

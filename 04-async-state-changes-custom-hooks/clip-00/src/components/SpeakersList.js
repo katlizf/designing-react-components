@@ -1,3 +1,5 @@
+// Handling asynchronous loading and state updates
+
 import Speaker from "./Speaker";
 import { data } from "../../SpeakerData";
 import { useState } from "react";

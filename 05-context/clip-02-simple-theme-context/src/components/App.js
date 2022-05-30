@@ -1,3 +1,5 @@
+// Creating a theme context and sharing it with the header component
+
 import Header from "./Header";
 import { createContext, useState } from "react";
 import Speakers from "./Speakers";

@@ -1,3 +1,5 @@
+// Implementing UI progress animation while updating record
+
 import React, { useState } from "react";
 
 function Session({ title, room }) {

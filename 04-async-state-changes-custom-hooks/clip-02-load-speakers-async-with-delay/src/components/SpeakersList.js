@@ -6,6 +6,7 @@ function SpeakersList({ showSessions }) {
   const [speakersData, setSpeakersData] = useState([]);
 
   const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+// set delay for render
 
   useEffect(() => {
     async function delayFunc() {
@@ -14,6 +15,8 @@ function SpeakersList({ showSessions }) {
     }
     delayFunc();
   }, []);
+
+//   ending with [] so it only runs on initial render
 
   function onFavoriteToggle(id) {
     const speakersRecPrevious = speakersData.find(function (rec) {

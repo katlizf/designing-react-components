@@ -1,3 +1,5 @@
+// Normalize state usage with loading status instead of booleans
+
 import { data } from "../../SpeakerData";
 import { useState, useEffect } from "react";
 
@@ -6,6 +8,7 @@ export const REQUEST_STATUS = {
   SUCCESS: "success",
   FAILURE: "failure",
 };
+// best to not have to change both isLoading and hasErrored with multiple booleans. better to have one, REQUEST_STATUS
 
 function useRequestSpeakers(delayTime = 1000) {
   const [speakersData, setSpeakersData] = useState([]);

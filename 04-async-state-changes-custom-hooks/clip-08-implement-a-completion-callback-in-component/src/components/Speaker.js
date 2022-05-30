@@ -1,3 +1,5 @@
+// Implementing a completion callback in speaker favorite component
+
 function Session({ title, room }) {
   return (
     <span className="session w-100">

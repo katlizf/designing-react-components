@@ -1,3 +1,5 @@
+// Adding more controls to the speakers toolbar
+
 import { useState } from "react";
 
 function useSpeakerFilter(startingShowSessions, startingEventYear) {

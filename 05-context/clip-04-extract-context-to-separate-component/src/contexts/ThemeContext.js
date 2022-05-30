@@ -1,3 +1,5 @@
+// Extracting the theme context to its own dedicated component and file
+
 import React, { createContext, useState } from "react";
 
 export const ThemeContext = createContext();

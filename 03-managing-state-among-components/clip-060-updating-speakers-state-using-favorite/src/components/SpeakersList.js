@@ -1,3 +1,5 @@
+// Updating speaker state from the speakers card component
+
 import Speaker from "./Speaker";
 import { data } from "../../SpeakerData";
 import { useState } from "react";

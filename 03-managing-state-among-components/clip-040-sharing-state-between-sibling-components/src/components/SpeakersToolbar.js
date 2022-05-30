@@ -1,3 +1,5 @@
+// Lifting state for sharing between components
+
 import { useState } from "react";
 
 function SpeakersToolbar({ theme, setTheme }) {

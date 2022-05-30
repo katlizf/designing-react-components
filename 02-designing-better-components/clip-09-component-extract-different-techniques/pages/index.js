@@ -1,3 +1,5 @@
+// Learning multiple ways to pass data into components using props
+
 import { data } from "../SpeakerData";
 
 function Session({ title, room }) {

@@ -1,3 +1,5 @@
+// Diving one large component into smaller separate components
+
 import { data } from "../SpeakerData"
 
 function Session({title, room}) {

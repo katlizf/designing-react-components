@@ -1,3 +1,5 @@
+// Create speaker filter context
+
 import React, { createContext } from "react";
 import useSpeakerFilter from "../hooks/useSpeakerFilter";
 

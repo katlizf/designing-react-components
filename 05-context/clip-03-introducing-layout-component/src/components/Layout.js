@@ -1,3 +1,5 @@
+// Introducing a layout component that both instantiates and uses the theme component
+
 import React, { createContext, useState } from "react";
 
 export const ThemeContext = createContext();

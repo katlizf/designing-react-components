@@ -1,3 +1,5 @@
+// Creating a nested tree of components from a single speaker component
+
 import { data } from '../SpeakerData'
 
 const IndexPage = () => {

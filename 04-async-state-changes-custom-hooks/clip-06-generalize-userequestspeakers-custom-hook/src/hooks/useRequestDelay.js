@@ -1,3 +1,9 @@
+// Code changes for resuse:
+//      rename custom hook,
+//      generalize initial data,
+//      generalize data returned,
+//      return generalized update
+
 import { useState, useEffect } from "react";
 
 export const REQUEST_STATUS = {

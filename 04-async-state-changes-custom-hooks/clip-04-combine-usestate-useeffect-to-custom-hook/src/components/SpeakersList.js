@@ -1,3 +1,5 @@
+// Asynchronously updating React state using custom React hook (useRequestSpeakers.js)
+
 import Speaker from "./Speaker";
 import ReactPlaceHolder from "react-placeholder";
 import useRequestSpeakers from "../hooks/useRequestSpeakers";

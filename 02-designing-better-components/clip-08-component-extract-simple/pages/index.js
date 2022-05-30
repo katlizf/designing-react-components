@@ -1,3 +1,5 @@
+// Extract session and sessions components from the single component
+
 import { data } from "../SpeakerData";
 import Speaker from "../src/components/Speaker";
 

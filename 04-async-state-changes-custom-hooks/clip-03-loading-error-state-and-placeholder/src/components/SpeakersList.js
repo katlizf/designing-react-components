@@ -1,3 +1,5 @@
+// Adding error handling including rendering placeholder graphics
+
 import Speaker from "./Speaker";
 import { data } from "../../SpeakerData";
 import { useState, useEffect } from "react";

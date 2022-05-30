@@ -1,3 +1,5 @@
+// Create a speaker filter
+
 import { useState } from "react";
 
 function useSpeakerFilter(startingShowSessions) {
