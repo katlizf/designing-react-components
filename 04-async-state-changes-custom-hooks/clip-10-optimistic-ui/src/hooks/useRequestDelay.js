@@ -1,3 +1,5 @@
+// Changing speaker favorite updates to respond optimistically 
+
 import { useState, useEffect } from "react";
 
 export const REQUEST_STATUS = {
