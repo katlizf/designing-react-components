@@ -1,3 +1,5 @@
+// Building and using a dedicated speaker context
+
 import { useContext } from "react";
 import Speaker from "./Speaker";
 import ReactPlaceHolder from "react-placeholder";
